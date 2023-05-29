@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../index.ts"],
+  "sourcesContent": ["\nlet nombre: string; \nnombre = \"Miguelo\"; \nlet edad: number; \nedad = 30; \nconst PERSONAJE = { \nnombre: nombre, \nedad: edad \n}; \n"],
+  "mappings": ";AACA,IAAI;AACJ,SAAS;AACT,IAAI;AACJ,OAAO;AACP,MAAM,YAAY;AAAA,EAClB;AAAA,EACA;AACA;",
+  "names": []
+}
